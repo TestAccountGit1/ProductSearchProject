@@ -31,7 +31,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <!-- Specify the location of your TestNG XML file -->
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                        <suiteXmlFile>${XML}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
